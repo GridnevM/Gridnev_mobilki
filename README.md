@@ -4,4 +4,4 @@
     <h2>Группа: БИ2102</h2>
     <h3>Описание репозитория:</h3>
     <p>Данный репозиторий используется для хранения и контроля версий лабораторных работ, выполняемых в рамках курса мобильной разработки.</p>
-<img src = "[https://a.d-cd.net/A8AAAgB8o-A-1920.jpg](https://i1.sndcdn.com/avatars-000184345573-etztrj-t500x500.jpg)">
+<img src = "https://avatars.mds.yandex.net/i?id=7215c989053b5ec3fc57c32b7438e221_l-8132087-images-thumbs&n=13">
